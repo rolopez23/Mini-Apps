@@ -1,0 +1,12 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "## Build Tic Tac Toe This challenge aims to help your native ability to use Javascript, HTML, and CSS. You are encouraged to use Javascript to build a page using the native methods.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

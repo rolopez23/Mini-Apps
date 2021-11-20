@@ -1,1 +1,4 @@
-console.log('Build tic tac toe Using just javascript!')
+console.log('Build tic tac toe using just javascript!')
+import test from 'model.js';
+
+test();
